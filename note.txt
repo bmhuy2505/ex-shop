@@ -1,0 +1,30 @@
+
+
+npx create-react-app .
+=> tạo dự án reactjs tại folder (rỗng) đang được mở trong terminal
+
+npm start
+=> khởi chạy dự án ( không dùng live server nữa )
+
+
+node_modules
+=> chứa code của thư viện ( axios, slick) => không vào đây code
+
+src
+=> sẽ chứa các Component
+
+
+package.json
+=> chứng thông tin : tên thư viện, các câu lệnh của dự án
+
+
+bind data { }
+=> Đưa data vào html
+
+
+
+state
+=> quản lý layout ( thông qua setState)
+
+props
+=> giao tiếp giữa 2 component / truyền data từ component cha xuống component con và ngược lại
